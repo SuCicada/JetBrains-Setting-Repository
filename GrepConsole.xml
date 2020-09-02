@@ -15,7 +15,6 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-65536" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -29,7 +28,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-14336" />
+                              <option name="color" value="-935919616" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -42,7 +41,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-256" />
+                              <option name="color" value="-937820105" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -50,8 +49,17 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*INFO.*" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-3750400" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*DEBUG.*" />
@@ -72,7 +80,6 @@
                         <GrepStyle>
                           <option name="foregroundColor">
                             <GrepColor>
-                              <option name="color" value="-4144960" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -85,7 +92,7 @@
               </GrepExpressionGroup>
             </list>
           </option>
-          <option name="id" value="1599064835420" />
+          <option name="id" value="1593772035826" />
           <option name="inputFilterGroups">
             <list>
               <GrepExpressionGroup>
